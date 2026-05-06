@@ -1,1 +1,1 @@
-# sya-assets
+# assets
